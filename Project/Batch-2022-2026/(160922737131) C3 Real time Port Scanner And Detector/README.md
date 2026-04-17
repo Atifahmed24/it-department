@@ -1,4 +1,9 @@
 # REAL TIME PORT SCANNER AND DETECTOR (Flask + SQLite)
+##team members 
+Mohd Atif Ahmed (160922737131)
+Shaik Daniyal (160922737149)
+Syed Sameer (160922737176)
+
 
 ## Features
 - Windows 10/11 compatible, Python 3.12
